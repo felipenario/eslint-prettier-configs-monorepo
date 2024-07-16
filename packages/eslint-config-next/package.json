@@ -1,0 +1,17 @@
+{
+  "name": "@felipenario/eslint-config-next",
+  "version": "0.0.0",
+  "description": "ESLint configuration used in my Next.js projects",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@felipenario/eslint-config-react": "workspace:*",
+    "@next/eslint-plugin-next": "^14.2.5",
+    "eslint-config-next": "^14.2.5",
+    "typescript": "^5.3.3"
+  },
+  "peerDependencies": {
+    "eslint": "^7.23.0 || ^8.0.0",
+    "typescript": ">=3.3.1"
+  }
+}

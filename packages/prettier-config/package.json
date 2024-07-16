@@ -1,0 +1,7 @@
+{
+  "name": "@felipenario/prettier-config",
+  "version": "0.0.0",
+  "description": "Prettier configuration used in my Typescript projects",
+  "main": "index.json",
+  "license": "MIT"
+}
