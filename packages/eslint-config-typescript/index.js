@@ -67,6 +67,9 @@ module.exports = {
     },
   ],
   settings: {
+    jest: {
+      version: "detect",
+    },
     "import/parsers": {
       [require.resolve("@typescript-eslint/parser")]: [
         ".ts",
